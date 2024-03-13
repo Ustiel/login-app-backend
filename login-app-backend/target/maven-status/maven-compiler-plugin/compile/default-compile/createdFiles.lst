@@ -1,0 +1,8 @@
+com\example\loginappbackend\entity\Role.class
+com\example\loginappbackend\repository\UserRepository.class
+com\example\loginappbackend\security\WebSecurityConfig.class
+com\example\loginappbackend\controller\LoginController.class
+com\example\loginappbackend\entity\Users.class
+com\example\loginappbackend\entity\EnumRole.class
+com\example\loginappbackend\repository\RoleRepository.class
+com\example\loginappbackend\LoginAppBackendApplication.class
