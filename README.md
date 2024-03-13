@@ -1,5 +1,6 @@
-# Language
+# Technology
 - Java using springboot framework
+- H2 Database
 
 # Instructions
 1. Run LoginAppBackendApplication.java to start backend local development server.
